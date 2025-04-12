@@ -20,6 +20,12 @@ adb pull /sdcard/otp_database.db
 notepad++ otp_database.db
 ````
 
+![Screenshot_20250412_050937_Authenticator](https://github.com/user-attachments/assets/5cb4f026-900b-4ca8-bb80-5c3981be9bc1)
+![Screenshot_20250412_050851](https://github.com/user-attachments/assets/8628074d-623b-412a-b181-f39f09055417)
+![Screenshot_20250412_050903](https://github.com/user-attachments/assets/6e25c804-3202-4c33-b84a-d81c06b966d1)
+![Screenshot_20250412_050649_Google Play Store](https://github.com/user-attachments/assets/4872d7ce-19a9-488c-ba10-71c86201adb3)
+
+
 ## Notepad++ otp_database.db.
 #############################<br>
 
@@ -157,11 +163,6 @@ totp��,ħHmacSHA1�_!����m�>���J
 
 q�����q3ae149d172870000001136ea3c21728757545712360000017037736f62983  41b08800000751
 ````
-![Screenshot_20250412_050937_Authenticator](https://github.com/user-attachments/assets/75888254-41d9-4dcf-939c-6bbaf304cc9b)
-![Screenshot_20250412_050851](https://github.com/user-attachments/assets/8628074d-623b-412a-b181-f39f09055417)
-![Screenshot_20250412_050903](https://github.com/user-attachments/assets/6e25c804-3202-4c33-b84a-d81c06b966d1)
-![Screenshot_20250412_050649_Google Play Store](https://github.com/user-attachments/assets/4872d7ce-19a9-488c-ba10-71c86201adb3)
-
 
 
 
