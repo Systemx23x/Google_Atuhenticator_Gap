@@ -5,10 +5,10 @@ Commands (Android-Platform-Tools 35.02 Windows 11 x64 24H2) on Rooted S22 (SM-S9
 with Google Authenticator 2 App via Google Play Store<br>
 
 ````
-adb devices<br>
-adb shell<br>
-su<br>
-cat /data/data/com.google.android.apps.authenticator2/files/accounts/1/otp_database.db<br>
+adb devices
+adb shell
+su
+cat /data/data/com.google.android.apps.authenticator2/files/accounts/1/otp_database.db
 ````
 
 
