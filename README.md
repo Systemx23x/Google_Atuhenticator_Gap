@@ -4,12 +4,12 @@
 Commands (Android-Platform-Tools 35.02 Windows 11 x64 24H2) on Rooted S22 (SM-S901B) & Galaxy Tab A (SM-T510)<br>
 with Google Authenticator 2 App via Google Play Store<br>
 
-''
+''''
 adb devices<br>
 adb shell<br>
 su<br>
 cat /data/data/com.google.android.apps.authenticator2/files/accounts/1/otp_database.db<br>
-''
+''''
 
 
 ##  Galaxy Tab A (SM-T510_DBT_T510XXU5CWA1).
